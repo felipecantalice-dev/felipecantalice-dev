@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, human intelligence! 👋
 
-<!--
-**felipecantalice-dev/felipecantalice-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um estudante apaixonado por **resolver problemas** e explorar o vasto universo da **programação** e **tecnologia**. Atualmente estou cursando o 2º período de **Engenharia Elétrica**, onde minha curiosidade me leva a mergulhar profundamente em **algoritmos**, **matemática**, **física** e **química**.
 
-Here are some ideas to get you started:
+## Sobre Mim 📚
+- 🐍 **Python** e 🦀 **Rust** são as linguagens que utilizo para dar vida às minhas ideias.
+- 🧮 Fascinado por **modelagem matemática** e **simulações físicas**.
+- 🔬 Constantemente experimentando com **reações químicas** e princípios de **engenharia elétrica**.
+- 💡 **Desenvolvedor** em formação, sempre pronto para enfrentar **desafios** e aprender mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos e Interesses 🚀
+- 🤖 Construindo **APIs** robustas e integrando com **bancos de dados** eficientes.
+- 🛠️ Desenvolvendo **software** que não apenas funciona, mas resolve problemas reais.
+- 🌐 Interessado em **modelagem de sistemas** e **análise de dados**.
+
+Estou sempre em busca de novos **desafios** e oportunidades para crescer como desenvolvedor e engenheiro. Vamos conectar e colaborar!
